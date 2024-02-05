@@ -18,6 +18,10 @@ Artifact of java project deployed on Nexus
 5. Owasp Dependency Check for a pipeline
 <img width="923" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Jenkins/assets/150304178/a40cb5a9-55fd-4be6-ab83-ac81d7e79c6e">
 
+6. Pipeline using the above stages
+
+<img width="936" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Jenkins/assets/150304178/cf0a350b-f90b-4e45-af0c-5c119ea6519a">
+
 
 
 
